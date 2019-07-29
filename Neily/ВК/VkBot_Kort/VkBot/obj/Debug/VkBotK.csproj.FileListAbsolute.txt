@@ -1,0 +1,30 @@
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Kort\VkBot\bin\Debug\Montece VkBot.exe.config
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Kort\VkBot\obj\Debug\Montece VkBot.exe
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Kort\VkBot\obj\Debug\Montece VkBot.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Montece VkBot.exe.config
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Montece VkBot.exe
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Montece VkBot.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\AngleSharp.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\JetBrains.Annotations.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Json.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\VkNet.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\AngleSharp.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\JetBrains.Annotations.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Json.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\bin\Debug\VkNet.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\obj\Debug\VkBotK.csprojResolveAssemblyReference.cache
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\obj\Debug\VkBotK.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\obj\Debug\VkBotK.csproj.CopyComplete
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\obj\Debug\Montece VkBot.exe
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Kort\VkBot\obj\Debug\Montece VkBot.pdb

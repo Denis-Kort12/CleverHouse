@@ -1,0 +1,39 @@
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\bin\Debug\TelegBot.exe.config
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\bin\Debug\TelegBot.exe
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\bin\Debug\TelegBot.pdb
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\obj\Debug\TelegBot.Form1.resources
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\obj\Debug\TelegBot.Properties.Resources.resources
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\obj\Debug\TelegBot.csproj.GenerateResource.Cache
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\obj\Debug\TelegBot.exe
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\obj\Debug\TelegBot.pdb
+C:\Users\Kort\Documents\Мои программы\C#\TelegBot\TelegBot\obj\Debug\TelegBot.csprojResolveAssemblyReference.cache
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\bin\Debug\TelegBot.exe.config
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\obj\Debug\TelegBot.exe
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\obj\Debug\TelegBot.pdb
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\bin\Debug\TelegBot.exe
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\bin\Debug\TelegBot.pdb
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\bin\Debug\Newtonsoft.Json.dll
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\bin\Debug\Telegram.Bot.dll
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\bin\Debug\Newtonsoft.Json.xml
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\bin\Debug\Telegram.Bot.xml
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\obj\Debug\TelegBot.Form1.resources
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\obj\Debug\TelegBot.Properties.Resources.resources
+G:\~РОСТЕЛЕКОМ\TelegBot\TelegBot\obj\Debug\TelegBot.csproj.GenerateResource.Cache
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\bin\Debug\TelegBot.exe.config
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\bin\Debug\TelegBot.exe
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\bin\Debug\TelegBot.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\bin\Debug\Telegram.Bot.dll
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\bin\Debug\Telegram.Bot.xml
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\obj\Debug\TelegBot.Form1.resources
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\obj\Debug\TelegBot.Properties.Resources.resources
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\obj\Debug\TelegBot.csproj.GenerateResource.cache
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\obj\Debug\TelegBot.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\obj\Debug\TelegBot.csproj.CopyComplete
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\obj\Debug\TelegBot.exe
+C:\Users\WorkStation\Desktop\Программа\C#\TelegBot\TelegBot\obj\Debug\TelegBot.pdb

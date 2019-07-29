@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF8408B6-1817-4A21-AFCA-7F8B0679A123}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Neily</RootNamespace>
+    <AssemblyName>Neily</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="For_list_collection.cs" />
+    <Compile Include="Golos_Neily.cs" />
+    <Compile Include="Golos_work.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Golos_work.Designer.cs">
+      <DependentUpon>Golos_work.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Goodbye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Goodbye.Designer.cs">
+      <DependentUpon>Goodbye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Load_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load_form.Designer.cs">
+      <DependentUpon>Load_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_menu.Designer.cs">
+      <DependentUpon>Main_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowInWf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowInWf.Designer.cs">
+      <DependentUpon>ShowInWf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User_form_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User_form_add.Designer.cs">
+      <DependentUpon>User_form_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vk_Neily_Bot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vk_Neily_Bot.Designer.cs">
+      <DependentUpon>Vk_Neily_Bot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Win_form_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Win_form_menu.Designer.cs">
+      <DependentUpon>Win_form_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Win_form_work.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Win_form_work.Designer.cs">
+      <DependentUpon>Win_form_work.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Golos_work.resx">
+      <DependentUpon>Golos_work.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Goodbye.resx">
+      <DependentUpon>Goodbye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load_form.resx">
+      <DependentUpon>Load_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_menu.resx">
+      <DependentUpon>Main_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ShowInWf.resx">
+      <DependentUpon>ShowInWf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User_form_add.resx">
+      <DependentUpon>User_form_add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vk_Neily_Bot.resx">
+      <DependentUpon>Vk_Neily_Bot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Win_form_menu.resx">
+      <DependentUpon>Win_form_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Win_form_work.resx">
+      <DependentUpon>Win_form_work.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neily_eyes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neily_face.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neily_Technology.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neily_win_form1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drakon_neily.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neily_off.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neily_on.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temperatura_Neily.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Neily_vlag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\girl_anime_neily.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\naily-city.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Vk_bot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0b3d3e925f8da637fc3c94a4807ed7b9_99608.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aurora_swirl_by_lukeedee-d514q2d.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HTB1dndbJpXXXXcPXXXXq6xXFXXXz.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-20170903125102-768.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kosmos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\55889791.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17613.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,39 @@
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\bin\Release\NeilyService.exe.config
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\bin\Release\NeilyService.exe
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\bin\Release\NeilyService.pdb
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\obj\Release\NeilyService.ProjectInstaller.resources
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\obj\Release\NeilyService.NeilyService.resources
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\obj\Release\NeilyService.csproj.GenerateResource.Cache
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\obj\Release\NeilyService.exe
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService\NeilyService\obj\Release\NeilyService.pdb
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\bin\Release\NeilyService.exe.config
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\obj\Release\NeilyService.exe
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\obj\Release\NeilyService.pdb
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\bin\Release\NeilyService.exe
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\bin\Release\NeilyService.pdb
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\obj\Release\NeilyService.ProjectInstaller.resources
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\obj\Release\NeilyService.NeilyService.resources
+C:\Users\Kort\Documents\Мои программы\C#\NeilyService — копия\NeilyService\obj\Release\NeilyService.csproj.GenerateResource.Cache
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\bin\Release\NeilyService.exe.config
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\obj\Release\NeilyService.exe
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\obj\Release\NeilyService.pdb
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\bin\Release\NeilyService.exe
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\bin\Release\NeilyService.pdb
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\bin\Release\MySql.Data.dll
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\bin\Release\Google.Protobuf.dll
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\bin\Release\MySql.Data.xml
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\obj\Release\NeilyService.ProjectInstaller.resources
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\obj\Release\NeilyService.NeilyService.resources
+C:\Users\Kort\Desktop\Подключение к БД\NeilyService\NeilyService\obj\Release\NeilyService.csproj.GenerateResource.Cache
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\bin\Release\NeilyService.exe.config
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\bin\Release\NeilyService.exe
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\bin\Release\NeilyService.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\bin\Release\MySql.Data.dll
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.csprojResolveAssemblyReference.cache
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.ProjectInstaller.resources
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.NeilyService.resources
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.csproj.GenerateResource.cache
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.csproj.CopyComplete
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.exe
+C:\Users\WorkStation\Desktop\Программа\C#\NeilyService\NeilyService\obj\Release\NeilyService.pdb

@@ -1,0 +1,47 @@
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Clever_house\Clever_house\bin\Debug\Clever_house.exe.config
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Clever_house\Clever_house\bin\Debug\Clever_house.exe
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Clever_house\Clever_house\bin\Debug\Clever_house.pdb
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Clever_house\Clever_house\obj\Debug\Clever_house.exe
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Clever_house\Clever_house\obj\Debug\Clever_house.pdb
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Clever_house\Clever_house\obj\Debug\Clever_house.csprojResolveAssemblyReference.cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house\Clever_house\bin\Debug\Clever_house.exe.config
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house\Clever_house\obj\Debug\Clever_house.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house\Clever_house\obj\Debug\Clever_house.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house\Clever_house\bin\Debug\Clever_house.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house\Clever_house\bin\Debug\Clever_house.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house\Clever_house\obj\Debug\Clever_house.csprojResolveAssemblyReference.cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe.config
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\bin\Debug\Clever_house.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csprojResolveAssemblyReference.cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\bin\Debug\AForge.Video.DirectShow.dll
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\bin\Debug\AForge.Video.dll
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe.config
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.exe
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.pdb
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe.config
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.exe
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.pdb
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\bin\Debug\Clever_house.pdb
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\bin\Debug\AForge.Video.dll
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csprojResolveAssemblyReference.cache
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe.config
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\bin\Debug\Clever_house.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csprojResolveAssemblyReference.cache
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csproj.CopyComplete
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.exe
+C:\Users\WorkStation\Desktop\Программа\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.pdb
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe.config
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\bin\Debug\Clever_house.exe
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\bin\Debug\Clever_house.pdb
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csprojAssemblyReference.cache
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csproj.CoreCompileInputs.cache
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.csproj.CopyComplete
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.exe
+F:\Программы\Мои\C#\Остальные\Диплом 4П1\C#\Clever_house — копия\Clever_house\obj\Debug\Clever_house.pdb

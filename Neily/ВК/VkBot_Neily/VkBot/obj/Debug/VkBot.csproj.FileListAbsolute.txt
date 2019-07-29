@@ -1,0 +1,105 @@
+D:\Выключение\C# программы\VkBot\VkBot\obj\Debug\VkBot.csprojResolveAssemblyReference.cache
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\AngleSharp.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Newtonsoft.Json.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\VkNet.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\AngleSharp.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Newtonsoft.Json.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\VkNet.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Json.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Json.pdb
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\HtmlAgilityPack.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\JetBrains.Annotations.dll
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\HtmlAgilityPack.pdb
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\HtmlAgilityPack.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\JetBrains.Annotations.xml
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Montece VkBot.exe.config
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Montece VkBot.exe
+D:\Выключение\C# программы\VkBot\VkBot\bin\Debug\Montece VkBot.pdb
+D:\Выключение\C# программы\VkBot\VkBot\obj\Debug\Montece VkBot.exe
+D:\Выключение\C# программы\VkBot\VkBot\obj\Debug\Montece VkBot.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\AngleSharp.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Json.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\VkNet.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\AngleSharp.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Json.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\VkNet.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\obj\Debug\VkBot.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Montece VkBot.exe.config
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Montece VkBot.exe
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\bin\Debug\Montece VkBot.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\obj\Debug\Montece VkBot.exe
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot\VkBot\obj\Debug\Montece VkBot.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Montece VkBot.exe.config
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\obj\Debug\Montece VkBot.exe
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\obj\Debug\Montece VkBot.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Montece VkBot.exe
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Montece VkBot.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\AngleSharp.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Json.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\VkNet.dll
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\AngleSharp.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\JetBrains.Annotations.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Json.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\bin\Debug\VkNet.xml
+C:\Users\Kort\Documents\Мои программы\C#\Вк\VkBot_Neily\VkBot\obj\Debug\VkBot.csprojResolveAssemblyReference.cache
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Montece VkBot.exe.config
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Montece VkBot.exe
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Montece VkBot.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\AngleSharp.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\JetBrains.Annotations.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Json.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\VkNet.dll
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\AngleSharp.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\JetBrains.Annotations.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Json.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\bin\Debug\VkNet.xml
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\obj\Debug\VkBot.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\obj\Debug\VkBot.csproj.CopyComplete
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\obj\Debug\Montece VkBot.exe
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\obj\Debug\Montece VkBot.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\ВК\VkBot_Neily\VkBot\obj\Debug\VkBot.csprojResolveAssemblyReference.cache
+H:\~Днеееееввниииикк\C#\ВК\VkBot_Neily\VkBot\bin\Debug\Montece VkBot.exe.config
+H:\~Днеееееввниииикк\C#\ВК\VkBot_Neily\VkBot\obj\Debug\Montece VkBot.exe
+H:\~Днеееееввниииикк\C#\ВК\VkBot_Neily\VkBot\obj\Debug\Montece VkBot.pdb

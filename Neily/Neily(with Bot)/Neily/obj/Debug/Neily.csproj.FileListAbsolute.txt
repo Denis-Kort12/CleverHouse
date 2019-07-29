@@ -1,0 +1,194 @@
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.Win_form_menu.resources
+F:\Neily\Neily\bin\Debug\Neily.exe.config
+F:\Neily\Neily\bin\Debug\Neily.exe
+F:\Neily\Neily\bin\Debug\Neily.pdb
+F:\Neily\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+F:\Neily\Neily\obj\Debug\Neily.Golos_work.resources
+F:\Neily\Neily\obj\Debug\Neily.Goodbye.resources
+F:\Neily\Neily\obj\Debug\Neily.Load_form.resources
+F:\Neily\Neily\obj\Debug\Neily.Main_menu.resources
+F:\Neily\Neily\obj\Debug\Neily.Properties.Resources.resources
+F:\Neily\Neily\obj\Debug\Neily.Win_form_menu.resources
+F:\Neily\Neily\obj\Debug\Neily.Win_form_work.resources
+F:\Neily\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+F:\Neily\Neily\obj\Debug\Neily.exe
+F:\Neily\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Documents\Программы\C#\Neily\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Documents\Программы\C#\Neily — 8\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Documents\Мои программы\C#\Neily — 8\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Desktop\Курсовая\C#\Ready\Neily\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\bin\Debug\Neily.exe.config
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\bin\Debug\Neily.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\bin\Debug\Neily.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.Golos_work.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.Goodbye.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.Load_form.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.Main_menu.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.Properties.Resources.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.Win_form_menu.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.Win_form_work.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily\Neily\obj\Debug\Neily.User_form_add.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\bin\Debug\Neily.exe.config
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\bin\Debug\Neily.exe
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\bin\Debug\Neily.pdb
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Golos_work.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Goodbye.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Load_form.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Main_menu.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Properties.Resources.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.User_form_add.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Win_form_menu.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Win_form_work.resources
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+G:\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.ShowInWf.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.ShowInWf.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.User_form_add.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Desktop\~~ККККККККККУУУУУУУУУУУРРРРРРРРРРСССССССАч Доработка\Ready\Neily — копия\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.ShowInWf.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.User_form_add.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Desktop\~РОСТЕЛЕКОМ\Ready\Neily — копия\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.ShowInWf.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.User_form_add.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+C:\Users\Kort\Desktop\VkBot\Neily — копия\Neily\obj\Debug\Neily.Vk_Neily_Bot.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\bin\Debug\Neily.exe.config
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.exe
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.pdb
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\bin\Debug\Neily.exe
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\bin\Debug\Neily.pdb
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.ShowInWf.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.User_form_add.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Vk_Neily_Bot.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\Kort\Desktop\Диплом\Программа\Neily(with Bot)\Neily\obj\Debug\Neily.csproj.GenerateResource.Cache
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\bin\Debug\Neily.exe.config
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\bin\Debug\Neily.exe
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\bin\Debug\Neily.pdb
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\bin\Debug\Microsoft.Speech.dll
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.csprojResolveAssemblyReference.cache
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Golos_work.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Goodbye.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Load_form.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Main_menu.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Properties.Resources.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.ShowInWf.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.User_form_add.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Vk_Neily_Bot.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Win_form_menu.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.Win_form_work.resources
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.csproj.GenerateResource.cache
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.csproj.CopyComplete
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.exe
+C:\Users\WorkStation\Desktop\Программа\C#\Neily(with Bot)\Neily\obj\Debug\Neily.pdb
